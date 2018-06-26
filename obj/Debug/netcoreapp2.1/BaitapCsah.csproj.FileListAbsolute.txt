@@ -1,0 +1,11 @@
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\bin\Debug\netcoreapp2.1\BaitapCsah.deps.json
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\bin\Debug\netcoreapp2.1\BaitapCsah.runtimeconfig.json
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\bin\Debug\netcoreapp2.1\BaitapCsah.runtimeconfig.dev.json
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\bin\Debug\netcoreapp2.1\BaitapCsah.dll
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\bin\Debug\netcoreapp2.1\BaitapCsah.pdb
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\obj\Debug\netcoreapp2.1\BaitapCsah.csprojAssemblyReference.cache
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\obj\Debug\netcoreapp2.1\BaitapCsah.csproj.CoreCompileInputs.cache
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\obj\Debug\netcoreapp2.1\BaitapCsah.AssemblyInfoInputs.cache
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\obj\Debug\netcoreapp2.1\BaitapCsah.AssemblyInfo.cs
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\obj\Debug\netcoreapp2.1\BaitapCsah.dll
+C:\Users\phamhieu1999\BaitapCsah\BaitapCsah\obj\Debug\netcoreapp2.1\BaitapCsah.pdb
